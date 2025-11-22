@@ -1,5 +1,3 @@
-
-
 //js-products-grid
 
 let productsHTML='';
