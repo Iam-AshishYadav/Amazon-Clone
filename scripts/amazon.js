@@ -1,3 +1,6 @@
+//import cart variable
+import {cart} from '../data/cart.js';
+
 //js-products-grid
 
 let productsHTML='';
